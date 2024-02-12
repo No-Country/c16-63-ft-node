@@ -48,8 +48,6 @@ Updated the primary, secondary button styles for better user experience
 
   #### Contribuidores
 
-  <a href="https://github.com/No-Country/c16-63-ft-node/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=No-Country/c16-63-ft-node" />
-  </a>
+- Flor Pérez Manzano [florpmanzano](https://www.linkedin.com/in/florpmanzano/)
 
   
