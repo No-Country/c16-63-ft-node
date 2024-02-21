@@ -1,0 +1,31 @@
+.RegisterAll{
+    font-family: Montserrat, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    background-color: #101418;
+}
+.Register{
+    display: grid;
+    justify-items: center;
+    width: 30%;
+    height: 400px;
+    border-width: 2px;
+    border-style: solid;
+    border-image: linear-gradient(to top,   #7f098f ,#091474);
+    border-image-slice: 1;
+    color: #ECEDEE;
+    margin-left: 35%;
+    margin-top: 5%;
+    padding: 20px;
+    background-color: #181e24;
+}
+.GuideRegister{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 20px;
+}
+.InputRegister{
+    width: 300px;
+    font-size: 20px;
+}
